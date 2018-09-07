@@ -1,4 +1,4 @@
-<!-- This keyword works as object refrence and
+<!-- This keyword works as object reference -->
 <?php
 
 class Test{
