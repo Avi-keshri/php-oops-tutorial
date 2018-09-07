@@ -6,8 +6,8 @@ class Test{
 	 public $b;
 	public function __construct($a ,$b)
 	{
-		$this->a= $a;
-		$this->b= $b;
+		$this->a = $a;
+		$this->b = $b;
 		echo "<pre>";
 		print_r($this);
 	}
