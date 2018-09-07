@@ -1,5 +1,5 @@
 <!-- Ability to take more than one form is called polymorphism
-   ( overloading ) and overloading only take place in one class-->
+   ( overloading ) and overloading only works in one class-->
 <?php
 
 class Programmer_test{

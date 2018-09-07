@@ -1,4 +1,4 @@
-<!--Method overriding take place in two class (in inheritance) --->
+<!--Method overriding works in two classes (in inheritance) --->
 <?php
 
 class Book{
