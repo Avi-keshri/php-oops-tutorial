@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ad076fd-76f9-4593-9945-58607c3b3948" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/New/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overriding/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/overriding/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/New/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="130">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/overloading/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/overriding/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="67" selection-start-column="67" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -34,6 +51,8 @@
         <option value="$PROJECT_DIR$/djsdjsd" />
         <option value="$PROJECT_DIR$/This/index.php" />
         <option value="$PROJECT_DIR$/New/index.php" />
+        <option value="$PROJECT_DIR$/overriding/index.php" />
+        <option value="$PROJECT_DIR$/overloading/index.php" />
       </list>
     </option>
   </component>
@@ -78,6 +97,16 @@
             <path>
               <item name="php-oops-tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-oops-tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="overloading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php-oops-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php-oops-tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="overriding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php-oops-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php-oops-tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="This" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -116,12 +145,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536305826488</updated>
-      <workItem from="1536305827880" duration="3344000" />
+      <workItem from="1536305827880" duration="4416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3344000" />
+    <option name="totallyTimeSpent" value="4416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="908" y="23" width="1012" height="989" extended-state="0" />
@@ -132,9 +161,9 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2926009" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2926009" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2484536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2484536" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -179,8 +208,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/New/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overriding/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overloading/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
